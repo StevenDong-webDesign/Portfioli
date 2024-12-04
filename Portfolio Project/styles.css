@@ -1,7 +1,5 @@
-/*
 #base {background: #141414; width: 1728px; height: 5213px;}
 div {color: white;}
-*/
     
 #navCol {
     width:425px; 
@@ -26,4 +24,16 @@ div {color: white;}
 
 .galPage {
     height: 200px;
+}
+
+#gallery {
+    width: 1200px;
+    position: relative;
+    left: 34%;
+}
+
+#contact {
+    width: 1200px;
+    position: relative;
+    left: 34%;
 }
