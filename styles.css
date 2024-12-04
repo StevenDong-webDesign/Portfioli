@@ -1,0 +1,39 @@
+#base {background: #141414; width: 1728px; height: 5213px;}
+div {color: white;}
+    
+#navCol {
+    width:425px; 
+    height:1600px; 
+    background:#2D2D2D;
+    margin-left:100px;
+}
+
+#aboutMe {
+    height:300px; 
+    width: 1200px;
+    position: relative;
+    left: 34%;
+}
+
+#aboutMe2 {
+    width: 65%;
+    position: relative;
+    left: 42%;
+    margin-left: 10px;
+}
+
+.galPage {
+    height: 200px;
+}
+
+#gallery {
+    width: 1200px;
+    position: relative;
+    left: 34%;
+}
+
+#contact {
+    width: 1200px;
+    position: relative;
+    left: 34%;
+}
