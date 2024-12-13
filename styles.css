@@ -16,11 +16,18 @@ div {color: white;}
 }
 
 #aboutMe2 {
+    position: relative;
+    left: 38%;
+}
+
+/*
+#aboutMe2-- {
     width: 65%;
     position: relative;
     left: 42%;
     margin-left: 10px;
 }
+*/
 
 .galPage {
     height: 200px;
@@ -37,3 +44,4 @@ div {color: white;}
     position: relative;
     left: 34%;
 }
+
